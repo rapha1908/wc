@@ -1,4 +1,5 @@
 import '../App.css';
+import App from "../App";
 
 function Login() {
     return (
@@ -12,5 +13,4 @@ function Login() {
         </div>
     );
 }
-
 export default Login;
